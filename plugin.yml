@@ -1,0 +1,9 @@
+
+name: Valeon
+main: code.BreakMC.valeon.Valeon
+version: 1.0
+
+commands:
+  capturepoint:
+      aliases: [cp, point]
+
